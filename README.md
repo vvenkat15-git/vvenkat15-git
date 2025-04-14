@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **ACT Fibernet Projects**, focusing on network and backend development.
+- 🔭 Currently working on **Networking Projects and Machine Learning**, focusing on network and backend development.
 - 🌱 Exploring **AI/ML** to expand my technical expertise.
 - 👯 Open to collaborations on **Python Backend Development**.
 - 🤝 Looking for support and teamwork on **Python Projects**.
