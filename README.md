@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Venkat Vanukuru</h1>
-<h3 align="center">Python Developer | Backend Engineer | Tech Enthusiast</h3>
+<h1 align="center">✨ Welcome! I'm Venkat Vanukuru ✨</h1>
+<h3 align="center">A Passionate Python Developer & Backend Engineer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vvenkat15-git&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -7,49 +7,48 @@
 
 ---
 
-## 🚀 About Me
-🔭 Currently crafting solutions for **ACT Fibernet Projects**, tackling backend and network challenges.  
-🌱 Constantly pushing boundaries—currently diving deep into **AI/ML** and scalable architectures.  
-👯 Open to collaborating on **Python Backend Development**—let’s build something amazing together!  
-💬 Passionate about **Python, REST APIs, and software efficiency**—let's talk code!  
-🏗 My projects live on **[GitHub](https://github.com/vvenkat15-git)**—check them out!  
-📫 Let's connect on **[LinkedIn](https://linkedin.com/in/venkat-vanukuru)**—always open to new ideas!  
+## 🌟 About Me  
+💻 **Backend Developer** currently working on **ACT Fibernet Projects**  
+🔍 Always exploring new technologies—currently diving deep into **AI/ML**  
+💡 Strong believer in clean code, scalable architecture, and optimized solutions  
+🤝 Open to collaborations on exciting **Python Backend Development** projects  
+📬 Reach out on **[LinkedIn](https://linkedin.com/in/venkat-vanukuru)**—let’s connect!  
+⚡ Fun fact: I love solving complex problems and making things run faster!  
 
 ---
 
-## 🛠 Tech Stack
-<p align="left">
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://travis-ci.org"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis CI" width="40" height="40"/></a>
-</p>
+## 🛠 Tech Stack  
+🚀 **Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
+![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)  
+![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql)  
+
+🛠 **Tools & Platforms**  
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws)  
+![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoft-azure)  
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
+![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman)  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvenkat15-git&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vvenkat15-git&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvenkat15-git&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vvenkat15-git&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🔗 Let's Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/venkat-vanukuru"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
-</p>
+## 🔗 Let's Connect!  
+<a href="https://linkedin.com/in/venkat-vanukuru">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+</a>
 
 ---
 
-🔥 **Code. Learn. Build. Repeat. Let's make an impact!** 🚀
+🚀 **Passionate about coding, learning, and building impactful solutions!** 🚀
