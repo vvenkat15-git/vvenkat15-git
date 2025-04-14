@@ -54,12 +54,6 @@
 📬 Find my projects on **[GitHub](https://github.com/vvenkat15-git)** and let's innovate together!  
 
 ---
-
-## 🔗 Let's Connect!  
-<a href="https://linkedin.com/in/venkat-vanukuru">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-</a>
-
 ---
 
 🚀 **Machine Learning | AI | Backend Engineering — Let's build the future!** 🚀
