@@ -9,7 +9,7 @@
 
 ## 🌟 About Me  
 💻 **Backend Developer** with a passion for **Machine Learning & AI-driven solutions**.  
-🧠 Constantly learning **Deep Learning, NLP, and Computer Vision**.  
+🧠 Constantly learning **AI> ML> Deep Learning, NLP, and Computer Vision**.  
 🔬 Currently working on **ACT Fibernet Projects**, integrating automation with AI models.  
 🛠 **Building intelligent systems** with **Python, AI/ML frameworks, and cloud platforms**.  
 🤝 Open to collaborations on **Machine Learning, AI, and Python Backend Development**.  
