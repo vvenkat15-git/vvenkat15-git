@@ -10,7 +10,7 @@
 ## 🌟 About Me  
 💻 **Backend Developer** with a passion for **Machine Learning & AI-driven solutions**.  
 🧠 Constantly learning **AI> ML> Deep Learning, NLP, and Computer Vision**.  
-🔬 Currently working on **ACT Fibernet Projects**, integrating automation with AI models.  
+🔬 Currently working As **SOFTWARE ENGINEER** at  **ACT Fibernet**, integrating automation with AI models.
 🛠 **Building intelligent systems** with **Python, AI/ML frameworks, and cloud platforms**.  
 🤝 Open to collaborations on **Machine Learning, AI, and Python Backend Development**.  
 📬 Let's connect on **[LinkedIn](https://linkedin.com/in/venkat-vanukuru)**—I love discussing AI innovations!  
